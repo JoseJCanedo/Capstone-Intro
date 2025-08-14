@@ -4,8 +4,8 @@
 
 ---
 
-### **What is a Capstone?**
-- **Definition:** Culminating academic experience that integrates learning
+### **What is a Capstone course?**
+- **Definition:** Culminating academic course that integrates learning from your core lower level classes
 - **Purpose:** Bridge between academic knowledge and professional practice
 - **Outcome:** Portfolio-ready project demonstrating technical competency
 - **Industry Connection:** Real-world application of IT skills
